@@ -1,4 +1,5 @@
 
+<img width="565" alt="tatetiREACT" src="https://user-images.githubusercontent.com/73550938/156439544-c81ed6d3-1799-4fda-b8a5-d0a353b753c5.png">
 
 JUEGO DE TA-TE-TI
 
