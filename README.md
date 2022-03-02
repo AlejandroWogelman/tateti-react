@@ -1,4 +1,4 @@
-![image](/tateti/src/assets/tatetiREACT.png)
+![image](./tateti/src/assets/tatetiREACT.png)
 
 JUEGO DE TA-TE-TI
 
